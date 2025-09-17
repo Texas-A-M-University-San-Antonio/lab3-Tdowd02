@@ -2,7 +2,8 @@
  * Name: Tyler Dowden
  * Date: 9/16/2025
 * Purpose: InClass 3 - 
-* [Write a description about this InClass 3 program]
+* Prompts the user to input the side of a cube, the code then reads the input and calculates and prints the volume and surface area
+    of the cube based on the side length given.
  */
 
         import java.util.Scanner; //Imports the scanner from library
